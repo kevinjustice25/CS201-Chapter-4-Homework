@@ -1,0 +1,6 @@
+# create a program to see if a input number is divisable by 2 and oupt if it is or not
+num = input('Enter a number: ')
+num = int(num)
+if num % 2 == 0:
+	print('Divisable by 2')
+	
